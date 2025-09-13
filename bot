@@ -64,3 +64,4 @@ else
         -v ${MANAGER_TMP_DIRECTORY}/:/tmp/manager/:rw \
         ph3nol/freqtrade-manager $*
 fi
+ 
